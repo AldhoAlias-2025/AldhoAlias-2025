@@ -17,7 +17,7 @@ A movie search web app that uses TheMovieDB API to fetch movie details and sugge
 ### Dragons and Dungeons (Frontend Game)
 A fully frontend static game built using web technologies. Tech Used: HTML CSS JavaScript
 
-### CampusConnect – Student Management System (Group Project)
+### CampusConnect , Student Management System (Group Project)
 A system designed to automate student registration, staff allocation, and record-keeping. Tech Used:
 Programming: Python
 Frontend: HTML, CSS, JavaScript, Tailwind CSS
@@ -27,7 +27,7 @@ Database: SQLite
 ### Tic-Tac-Toe (C++ Terminal Game)
 A terminal-based tic-tac-toe game with multiplayer and single-player (bot/AI) modes. Tech Used: C++
 
-#### YOU CAN'T SEE – 2D Game (Godot Engine)
+#### YOU CAN'T SEE , 2D Game (Godot Engine)
 A 2D game built using the Godot Engine, playable on Windows. Tech Used: Godot (GDScript)
 
 
